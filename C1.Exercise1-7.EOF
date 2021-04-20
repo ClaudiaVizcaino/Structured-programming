@@ -1,0 +1,8 @@
+#include <stdio.h>
+ 
+ int main()
+ {       
+     printf("EOF: %d\n", EOF );   /* Spoiler el valor de EOF es -1 */
+  
+   return 0;
+ }         
