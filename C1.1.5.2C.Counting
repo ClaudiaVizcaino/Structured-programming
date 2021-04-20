@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+/* count characters in input; 1st version */
+main()
+{
+    long nc;   /* nc is a counter of #, characters */
+    
+    nc = 0;
+    while (getchar()  != EOF)
+        ++nc;  /* ++ means increment by one, -- decrement by 1 */
+    printf("%ld\n", nc);  /* %ld= it will be a long integer, %f= float, %.0f = print decimal point and fraction part, %c = character, %s = chair of characters */
+}
