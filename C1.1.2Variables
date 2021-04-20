@@ -12,9 +12,9 @@ main()
     step = 20;   /* step size */
     
     fahr = lower;
-    while (fahr <= upper) {
+    while (fahr <= upper) {    /* while loop (repeate statement until the assigned condition si no longer fullfill) most work get done in the body of the loop */ 
         celsius = 5 * (fahr-32)  / 9;
-        printf("%d\t%d\n", fahr, celsius);
+     printf("%d\t%d\n", fahr, celsius);  /* printf output formatting function, %d= characters to be printed (numbers), \t= tab between values, \n= new line*/ 
         fahr = fahr + step;
     }
 }
