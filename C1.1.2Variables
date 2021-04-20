@@ -7,7 +7,7 @@ main()
     int fahr, celsius;   /* In C, ALL variables MUST BE declare before any executable statement */ 
     int lower, upper, step;  /* DECLARATION announce properties of variables (int, integer, enteros) */
     
-    lower = 0;   /* lower limit of temperature table */
+    lower = 0;   /* lower limit of temperature table (the LUS are symbolic constants, not variables) */
     upper = 300; /* upper limit */
     step = 20;   /* step size */
     
