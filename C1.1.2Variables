@@ -4,8 +4,8 @@
       for fahr = 0, 20, ...., 300 */
 main()
 {
-    int fahr, celsius;
-    int lower, upper, step;
+    int fahr, celsius;   /* In C, ALL variables MUST BE declare before any executable statement */ 
+    int lower, upper, step;  /* DECLARATION announce properties of variables (int, integer, enteros) */
     
     lower = 0;   /* lower limit of temperature table */
     upper = 300; /* upper limit */
