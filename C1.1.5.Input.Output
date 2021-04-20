@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+/* copy input to output; 1st version */
+main()
+{
+    int c;
+    
+    c = getchar();  /* reads a character from standar input (wey lo que escribas en in sale en out), variable c contains the next character of input (lo mismo) */
+    while (c != EOF) {   /* ( != means not equal to) */ 
+        putchar(c) ;  /* putchar(c) PRINTS the contents of the integer variable c as a character (Muestra caracter en pantalla) */
+        c = getchar();
+    }
+}
