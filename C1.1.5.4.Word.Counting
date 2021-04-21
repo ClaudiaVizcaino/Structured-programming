@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+#define IN 1    /* inside a word */ 
+#define OUT 0  /* outside the word */
+
+
+main()
+{
+    int c, nl, nw, nc, state;  /* it will count lines, words, and characters in input */
+    
+    state = OUT;
+    nl = nw = nc = 0;  /* en out sera el mismo orden (ejemplo superluminal time travel tiene tiene 0 lineas, 3 palabras, 24 characters, out 0 3 24)*/ 
+    while ((c = getchar())  != EOF) {
+        ++nc;
+        if (c == '\n') /* == means equality */
+            ++nl; 
+        if (c == ' ' || c == '\n' || c == '\t') /* || means OR (esto o esto wei) esta linea dice "if c is a black or c is a new line or c is a new tab" */ 
+             state = OUT;
+             else if (state == OUT) {
+                 state = IN;
+                 ++nw;
+             }
+        
+    }
+    printf("%d %d %d\n", nl, nw, nc);
+}
