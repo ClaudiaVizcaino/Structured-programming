@@ -7,4 +7,4 @@ The main objective of this PIA is to calculate the Gestational Age and Estimate 
 
 Information needed: 
 
-The program would ask the last menstrual period (LMP) date and the current date, in case that the user do not have the specific date, the program would ask a second question in which the fundal height would be ask (uterus height). 
+The program would ask the last menstrual period (LMP) date, in case that the user do not have the specific date, the program would ask a second question in which the fundal height would be ask (uterus height). 
