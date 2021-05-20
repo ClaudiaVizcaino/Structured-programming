@@ -33,4 +33,4 @@
    **Grade** = 11
 ##  References
 1. Calculating a Due Date. Johns Hopkins Medicine. (n.d.). https://www.hopkinsmedicine.org/health/wellness-and-prevention/calculating-a-due-date. 
-1. Gestational Age. (n.d.). https://manual.jointcommission.org/releases/TJC2016B1/DataElem0265.html#:~:text=Gestational%20age%20(written%20with%20both,Obstetricians%20and%20Gynecologists%20reVITALize%20Initiative).. 
+1. Gestational Age. (n.d.). https://manual.jointcommission.org/releases/TJC2016B1/DataElem0265.html#:~:text=Gestational%20age%20(written%20with%20both,Obstetricians%20and%20Gynecologists%20reVITALize%20Initiative)...
