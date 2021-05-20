@@ -29,6 +29,7 @@
  3.  Código: 3 
  4. Almacenaje: 1 
  5. Documentación: 2
+ 6. 
 **CF** = 10
 ##  References
 1. Calculating a Due Date. Johns Hopkins Medicine. (n.d.). https://www.hopkinsmedicine.org/health/wellness-and-prevention/calculating-a-due-date. 
