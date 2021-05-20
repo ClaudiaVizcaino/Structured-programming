@@ -10,7 +10,7 @@
 ## Objective
 - The main objective of this PIA is to calculate the Gestational Age and Estimate Due Date (EDD) for any pregnancy, the gestational age would give the weeks of the pregnancy and the EDD would give the date of the expected deliver day.
 
-##Program  
+## Program  
 - This program gives a proper control of the prenatal care for any person, it is more focus on the pregnant woman because it ask the Last Menstrual Period (LMP) which is a date usually known by the women or doctor. 
 - The program fulfill the objective and also gives the user the time difference between the two dates.
 
