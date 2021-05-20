@@ -24,13 +24,13 @@
 1. Finally, the code obtain the Due-Date with the Naegele's rule, the code verify the month if it is higher than 12 and the day if it is higher than 31.
 **Due-Date=LPM-3 Months+1 week**
 ## Auto-evaluation 
- 1.  Complejidad: 2
- 2. Funcionalidad: 2
- 3.  Código: 3 
- 4. Almacenaje: 1 
- 5. Documentación: 2
+ 1. Complexity : 2
+ 2. Functionality: 2
+ 3. Code: 3 
+ 4. Storage: 1 
+ 5. Documentation: 2
  
-   **CF** = 10
+   **Grade** = 10
 ##  References
 1. Calculating a Due Date. Johns Hopkins Medicine. (n.d.). https://www.hopkinsmedicine.org/health/wellness-and-prevention/calculating-a-due-date. 
 1. Gestational Age. (n.d.). https://manual.jointcommission.org/releases/TJC2016B1/DataElem0265.html#:~:text=Gestational%20age%20(written%20with%20both,Obstetricians%20and%20Gynecologists%20reVITALize%20Initiative). 
